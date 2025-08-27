@@ -24,9 +24,9 @@ import (
 	"text/template"
 
 	"github.com/Masterminds/sprig"
-	"github.com/elastic/crd-ref-docs/config"
-	"github.com/elastic/crd-ref-docs/templates"
-	"github.com/elastic/crd-ref-docs/types"
+	"github.com/antonincms/crd-ref-docs/config"
+	"github.com/antonincms/crd-ref-docs/templates"
+	"github.com/antonincms/crd-ref-docs/types"
 )
 
 const (
